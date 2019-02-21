@@ -13,9 +13,6 @@
 
 不要使用`maven-<myplugin>-plugin`，因为该命名是 Maven 团队维护官方插件的保留命名方式，使用这个命名方式会侵犯 Apache Maven 商标。
 
-样式代码组件效果
-
-
 ## 2、自定义组件实现类
 
 Mojo 就是 Maven plain Old Java Object。每一个 Mojo 就是 Maven 中的一个执行目标（executable goal），而插件则是对单个或多个相关的 Mojo 做统一分发。一个 Mojo 包含一个简单的 Java 类。插件中多个类似 Mojo 的通用之处可以使用抽象父类来封装。
