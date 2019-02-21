@@ -1,5 +1,12 @@
 # maven 自定义组件
 
+### 赞赏
+
+请作者喝杯咖啡吧！
+
+![idea-plugin](/doc/weix.png)
+
+
 ## 1、组件命名
 
 插件命名为` <myplugin>-maven-plugin`。
