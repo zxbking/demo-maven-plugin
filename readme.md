@@ -98,7 +98,7 @@ mvn com.zxbking.plugin:demo-maven-plugin:1.0-SNAPSHOT:sumplugin
 
 使用idea工具启动，双击启动
 
-![idea-plugin](.\doc\idea-plugin.png)
+![idea-plugin](https://github.com/zxbking/demo-maven-plugin/tree/master/doc/idea-plugin.png)
 
 
 ## 6、注意事项
